@@ -1,0 +1,18 @@
+acrylic params - stockinette
+
+only lines starting with * mean anything
+
+*init_file 1
+*output_prefix k1len11600
+*stitch_length 11.6 mm
+*bending_modulus 0.045
+*regularization 0.002
+*yarn_radius 0.74
+*core_radius 0.325
+*interactions_per_segment 10
+*contact_rigidity 0.0001
+*contact_exponent 2.4
+*sweep_direction x
+*init_dimension 2.8
+*final_dimension 5.3
+*step_size 0.01
